@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "name": "YouTube Premium",
+      "icon": "https://simpleicons.org/icons/youtube.svg",
+      "price": "11.99",
+      "currency": "USD",
+      "period": "monthly",
+      "firstBillDate": "2023-01-01"
+    },
+    {
+      "id": 2,
+      "name": "Spotify",
+      "icon": "https://simpleicons.org/icons/spotify.svg",
+      "price": "9.99",
+      "currency": "USD",
+      "period": "monthly",
+      "firstBillDate": "2023-02-15"
+    },
+    {
+      "id": 3,
+      "name": "Netflix",
+      "icon": "https://simpleicons.org/icons/netflix.svg",
+      "price": "15.49",
+      "currency": "USD",
+      "period": "monthly",
+      "firstBillDate": "2023-03-01"
+    },
+    {
+      "id": 4,
+      "name": "Disney+",
+      "icon": "https://simpleicons.org/icons/disney.svg",
+      "price": "7.99",
+      "currency": "USD",
+      "period": "monthly",
+      "firstBillDate": "2023-06-01"
+    }
+  ]
